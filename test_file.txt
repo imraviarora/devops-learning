@@ -1,2 +1,0 @@
-This is test file ..!!
-for adding file in git index.
