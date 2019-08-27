@@ -1,0 +1,5 @@
+ftp 13.232.187.192
+Administrator
+sc8=xDUJIZ?J@ZD;TELfRNh%nmafsLkc
+put C:\Program Files (x86)\Jenkins\workspace\deploy_to_iis_testing\deploy_to_iis_testing.zip
+quit
